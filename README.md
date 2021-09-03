@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/tiautocom">
-    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiautocom&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="280em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&wakatime=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiautocom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiautocom&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="280em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&wakatime=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiautocom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
 <div style="display: inline_block"><br>
